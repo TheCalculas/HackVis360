@@ -241,7 +241,7 @@ function Implementation() {
   return (
     <div ref={ref} className={`${Styles.row} mt-40 fadeonscroll sm:mt-4`}>
       <div className={`${Styles.col} ${Styles.col40}`}>
-        <h2 className={Styles.header}>Implementation</h2>
+        <h2 className={Styles.header}>Implement</h2>
       </div>
       <div className={`${Styles.col} ${Styles.col60}`}>
         <div className={Styles.headDescription}>

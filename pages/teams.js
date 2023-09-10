@@ -14,9 +14,6 @@ function Teams() {
       <section className="mt-16 mb-12 container-70">
         <div className="my-16 w-full text-center">
           <BottomGlitter text="Our Team" />
-          {/* <h3 className="text-lg mt-8">
-            <br />
-          </h3> */}
         </div>
         <h2 className={Styles.postHead}>Organizers</h2>
         <div className={Styles.cardContainer}>
